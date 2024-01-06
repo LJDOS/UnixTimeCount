@@ -14,9 +14,9 @@ Requirements
 Installation and download
 =========================
 
-See the `package homepage`_ for helpful hints relating to downloading
-and installing pyswarm.
-
+Official website of Yi Language：
+https://www.dywt.com.cn/pdown.htm
+You can use this to open the code^TimeForUnix.e^
 
 Source Code
 ===========
